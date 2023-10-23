@@ -1,4 +1,4 @@
-package az.ingress.change.my.name;
+package az.ingress.ms.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

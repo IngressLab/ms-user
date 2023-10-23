@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: ms.user
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: postgres
+    driverClassName: org.postgresql.Driver
+  jpa:
+    open-in-view: false
+
+  liquibase:
+    change-log: liquibase/changelog-master.yml
