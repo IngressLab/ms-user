@@ -1,4 +1,4 @@
-<h1 align="center"> change.my.name </h1> <br>
+<h1 align="center"> ms-user </h1> <br>
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Add introduction about service
 ## How to run locally
 
 ```shell script
-$ java -jar change.my.name.jar
+$ java -jar ms-user.jar
 ```
 
 ## Tech stack

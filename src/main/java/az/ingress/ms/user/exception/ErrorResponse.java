@@ -1,3 +1,3 @@
-package az.ingress.change.my.name.exception;
+package az.ingress.ms.user.exception;
 
 public record ErrorResponse (String message){}
